@@ -1,22 +1,12 @@
-# Hi there, I'm Paul 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in algorithms, system design, distributed systems, and scalability.
+I'm primarily interested in full-stack development and currently work as a software engineer at [**@InvestorHub**](https://github.com/FreshXYZ)
 
-## 📘 Blog
+I'm fascinated by large-scale, high-impact products and enjoy delving into topics such as system design, distributed systems and scalability. 
 
-Check out my blog, [ByteSized1001](https://bytesized1001.com), where I share insights and tutorials on:
+Outside of work, I like to follow the developments of science. I also have two fluffballs to take care of.
 
-- Algorithms
-- System Design
-- Distributed Systems
-- Scalability
-
-## 📈 GitHub Stats
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulle&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
+#### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/plle)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter&logoColor=1DA1F2)](https://twitter.com/ispaulle)
 [![Medium](https://img.shields.io/badge/-Medium-000?&logo=medium)](https://medium.com/@ispaulle)
