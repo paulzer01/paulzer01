@@ -4,7 +4,7 @@ I'm primarily interested in full-stack development and currently work as a softw
 
 I'm fascinated by large-scale, high-impact products and enjoy delving into topics such as system design, distributed systems and scalability. 
 
-Outside of work, I like to follow the developments of science. I also have two fluffballs to take care of.
+Outside of work, I like to follow the developments of science. I also have two fluffballs to take care of. 🐶
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@ispaulle)
