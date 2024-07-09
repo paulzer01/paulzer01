@@ -1,10 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm primarily interested in full-stack development and currently work as a software engineer at [**@InvestorHub**](https://github.com/FreshXYZ)
+I'm Paul, a full-stack developer and software engineer at [**@InvestorHub**](https://github.com/FreshXYZ). I love working on large-scale, impactful products and have a keen interest in system design, distributed systems, and scalability.
 
-I'm fascinated by large-scale, high-impact products and enjoy delving into topics such as system design, distributed systems and scalability. 
-
-Outside of work, I like to follow the developments of science. I also have two fluffballs to take care of. 🐶
+When I'm not coding, I'm either keeping up with the latest in science or taking care of my two fluffballs. 🐶
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@ispaulle)
