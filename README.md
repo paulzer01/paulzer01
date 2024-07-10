@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Paul, a full-stack developer and software engineer at [**@InvestorHub**](https://github.com/FreshXYZ). I love working on large-scale, impactful products and have a keen interest in system design and scalability.
+I'm Paul, a full-stack developer and software engineer at [**@InvestorHub**](https://github.com/FreshXYZ). I love working on large-scale, impactful products and have a keen interest in system designs and scalability.
 
 When I'm not coding, I'm either keeping up with the latest in tech and science or taking care of my two fluffballs. 🐶
 
