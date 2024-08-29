@@ -4,7 +4,6 @@ I'm Paul, a full-stack developer and software engineer at [**@InvestorHub**](htt
 
 When I'm not coding, I'm either keeping up with the latest in tech and science or taking care of my two fluffballs. 🐶
 
-#### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@ispaulle)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/plle)
 
