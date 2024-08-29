@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Paul, a **full-stack software engineer** at [**@InvestorHub**](https://github.com/FreshXYZ). Previously, I was at [**@Xplor**](https://github.com/xplor) and [**@99designs**](https://github.com/99designs). I enjoy working on large-scale, impactful products, and have led and contributed to major customer-facing feature launches, as well as helped to improve internal infrastructure and tooling.
+I'm Paul, a **full-stack software engineer** at [**@InvestorHub**](https://github.com/FreshXYZ). Previously, I was at [**@Xplor**](https://github.com/xplor) and [**@99designs**](https://github.com/99designs). I enjoy working on large-scale, impactful products, and have led and contributed to major customer-facing feature launches, and have also helped to improve internal infrastructure and tooling.
 
 Outside of work, I'm interested in the latest developments in tech, games, and getting some fresh air. I also have two dogs that always brighten the day. 🐕☀️
 
