@@ -2,7 +2,7 @@
 
 I'm Paul, a **full-stack software engineer** at [**@InvestorHub**](https://github.com/FreshXYZ). Previously, I was at [**@Xplor**](https://github.com/xplor) and [**@99designs**](https://github.com/99designs), where I built and scaled impactful, customer-facing products and contributed to internal tooling improvements.
 
-### 👾 Beyond Work
+##### 👾 Beyond Work
 
 Outside of work, I enjoy learning about the latest developments in tech and like to unwind with games or by getting outside for a breath of fresh air. I'm also a proud dog parent to two furry companions. 🐕☀️
 
