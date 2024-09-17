@@ -1,5 +1,5 @@
 
-Hi, I'm Paul, a **full-stack software engineer** at [**@InvestorHub**](https://github.com/FreshXYZ). Previously, I was at [**@Xplor**](https://github.com/xplor) and [**@99designs**](https://github.com/99designs), where I built and scaled customer-facing products and contributed to internal tooling improvements.
+Hi, I'm Paul, a **software engineer** at [**@InvestorHub**](https://github.com/FreshXYZ). Previously, I was at [**@Xplor**](https://github.com/xplor) and [**@99designs**](https://github.com/99designs), where I built and scaled customer-facing products and contributed to internal tooling improvements.
 
 Outside of work, I enjoy learning about the latest developments in tech and like to unwind with reading, games and physical acitivty. 
 
