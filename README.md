@@ -5,7 +5,7 @@ Outside of work, I enjoy learning about the latest developments in tech and like
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/plle)
 <!--- [<img alt="Substack" src="https://img.shields.io/badge/Substack-230E76A8.svg?&style=for-the-badge&logo=Substack&logoColor=white" />](https://newsletter.uncracked.dev) -->
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Substack&logoColor=white" />](https://newsletter.uncracked.dev)
+[<img alt="Medium" src="https://img.shields.io/badge/Substack-%23000000.svg?&style=for-the-badge&logo=Substack&logoColor=white" />](https://newsletter.uncracked.dev)
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@paulzer01)
 
